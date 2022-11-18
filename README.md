@@ -26,42 +26,36 @@
 
 <p>MXF - 125 - 2022/2022 - Branco - R$ 12.875,00
     2022/2022</P>
+<img src="125.jpg">
+
 
 <p>R$ 12.875,00
 MXF 90</P>
 
-<p>MXF - 90 - 2022/2022 - Vermelho - R$ 9.475,00
-2022/2022</P>
-
-<p>R$ 9.475,00
-HONDA CG 160</P>
 
 <p>HONDA - CG 160 - 2020/2020 - Vermelho - R$ 16.600,00
 2020/2020</P>
+<img src="160.jpg">
+
 
 <p>R$ 16.600,00
 HONDA CG 160</P>
 
 <p>HONDA - CG 160 - 2021/2021 - Branco - R$ 16.990,00
 2021/2021</P>
+<img src="1601.jpeg">
 
-<p>R$ 16.990,00
-YAMAHA NEO 125</P>
-
-<p>YAMAHA - NEO 125 - 2017/2017 - Vermelho - R$ 10.990,00
-2017/2017</P>
-
-<p>R$ 10.990,00
-HONDA CG 125</P>
 
 <p>HONDA - CG 125 - 1996/1996 - Vermelho - R$ 2.990,00
 1996/1996</P>
+<img src="1251.jpg">
 
 <p>R$ 2.990,00
 MXF 90</P>
 
 <p>MXF - 90 - 2020/2021 - Amarelo - R$ 8.300,00
 2020/2021</P>
+<img src="sfx.jpeg">
     
 <p>HORÁRIO DE ATENDIMENTO</p>
 <p>Segunda a Sexta das 9:00 ao 11:30 e das 13:30 às 18:30 / Sábados das 9:00 ao 11:30.</P>
